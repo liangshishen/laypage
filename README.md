@@ -20,7 +20,8 @@
 <body>
  
 <div id="test1"></div>
- 
+
+<!-- 引入js即可，css会自动引入到head标签中 -->
 <script src="laypage.js"></script>
 <script>
 
