@@ -38,7 +38,7 @@ laypage.render({
 
 ## 基础参数选项
 
-请参考官方文档 [https://www.layui.com/doc/modules/laypage.html](https://www.layui.com/doc/modules/laypage.html#options){:target="_blank"}
+请参考官方文档 [https://www.layui.com/doc/modules/laypage.html](https://www.layui.com/doc/modules/laypage.html#options)
 
 ## Copyright
 
