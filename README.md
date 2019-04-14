@@ -38,3 +38,9 @@ laypage.render({
 ## 基础参数选项
 
 请参考官方文档 [https://www.layui.com/doc/modules/laypage.html](https://www.layui.com/doc/modules/laypage.html#options)
+
+## Copyright
+
+- @Name : layui.laypage 分页组件
+- @Author：贤心
+- @License：MIT
