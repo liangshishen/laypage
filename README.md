@@ -6,6 +6,8 @@
 
 - `laypage` 是从 `layui-v2.4.5` 中提取出来可单独使用的JavaScript分页插件，对于想使用 `laypage` 分页插件但又不想使用 `layui` 框架的开发者提供了方便。
 
+- [演示页面](https://liangshishen.github.io/laypage/demo.html "演示页面")
+
 ## 快速使用
 
 `laypage` 的使用非常简单，指向一个用于存放分页的容器，通过服务端得到一些初始值，即可完成分页渲染：
